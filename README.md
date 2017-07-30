@@ -5,4 +5,4 @@ Please refer:
 
 -- Attached PDF writeup for all concepts and project learnings
 
--- Attached pynb for python code
+-- Attached python files/pynb for python code
